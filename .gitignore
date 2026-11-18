@@ -1,0 +1,43 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+mono_crash.*
+*_BurstDebugInformation_DoNotShip/
+
+# Compiled Python binaries inside StreamingAssets (distributed via Releases)
+/Assets/StreamingAssets/ServidorMaos/Linux/
+/Assets/StreamingAssets/ServidorMaos/Linux.meta
+/Assets/StreamingAssets/ServidorMaos/Windows/
+/Assets/StreamingAssets/ServidorMaos/Windows.meta
+/Assets/StreamingAssets/ServidorMaos/Mac/
+/Assets/StreamingAssets/ServidorMaos/Mac.meta
+
+# Python cache / environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+dist/
+build/
+*.spec

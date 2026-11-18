@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "NumeroZoo: An Embodied Numeracy Learning Game Powered by Real-Time Computer Vision"
+message: "If you use this software in your research or educational activities, please cite it using the metadata below."
+type: software
+version: 1.0.0
+date-released: "2026-11-18"
+license: MIT
+repository-code: "https://github.com/LC732/NumeroZoo"
+authors:
+  - given-names: Luan
+    family-names: Melo
+    affiliation: "Instituto Federal Goiano, Iporá, GO, Brazil"
+  - given-names: Thamer Horbylon
+    family-names: Nascimento
+    affiliation: "Instituto Federal Goiano, Iporá, GO, Brazil; Instituto de Informática, Universidade Federal de Goiás, Goiânia, GO, Brazil"
+keywords:
+  - serious games
+  - embodied learning
+  - mathematics education
+  - computer vision
+  - mediapipe
+  - unity
